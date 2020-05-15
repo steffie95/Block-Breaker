@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Laser Defender/Assets/Bundle/SpaceShooterRedux/Spritesheet/sheet.xml">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="36" Column="28" />
+      <File FileName="../Laser Defender/Assets/Bundle/SpaceShooterRedux/Spritesheet/sheet.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
