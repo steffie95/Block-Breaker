@@ -2,7 +2,7 @@
 A humble ode to the Atari classic Breakout
 
 To play: 
-         1. Download compressed zip folder, 
+         1. Download compressed zip folder 
          2. Extract
          3. Run!
          
